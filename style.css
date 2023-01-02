@@ -15,6 +15,28 @@ html{
     border-radius: 5%;
     box-shadow: 5px 5px 8px;
 }
+
+.song-name{
+    font-family: sans-serif;
+    
+    text-align: center;
+    font-family: Arial;
+    color: #ffffff;
+}
+.song-writer{
+    font-family: sans-serif;
+    transition:0.5s;
+    text-align: center;
+    color:#666666;
+    text-shadow: 3px 3px 5px;
+}
+.song-writer:hover{
+    color:#2e2e2e;
+    cursor: pointer;
+    
+
+}
+
 img{
     width: 200px;
     height: 220px;
