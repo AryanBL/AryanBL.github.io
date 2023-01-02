@@ -28,3 +28,15 @@ li{
     display:inline;
     margin:5px
 }
+input{
+    width: 250px;
+    margin-left:7px;
+    color:#9198e5
+}
+pre{
+    margin:10px;
+    margin-bottom:4px;
+    color:white;
+    font-weight: bold;
+    font-family:Arial
+}
