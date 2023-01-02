@@ -15,4 +15,16 @@ html{
     border-radius: 5%;
     box-shadow: 5px 5px 8px;
 }
+.play,
+.back,
+.for{
+    border-color: #ffffff;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
 
+li{
+    display:inline;
+    margin:5px
+}
